@@ -18,7 +18,7 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?logo=flutter&style=for-the-badge&logoColor=blue">
 </p>
 
-<h3>
+<h3 align="center">
  I'm learning  
 </h3>
 <p align="center">
@@ -26,8 +26,8 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
   <img alt="Golang" src="https://img.shields.io/badge/golang-%2320232a.svg?logo=go&style=for-the-badge" />
   <img alt="ApacheKafka" src="https://img.shields.io/badge/kafka-%2320232a.svg?logo=apachekafka&style=for-the-badge"/>
 </p>
-
+<p>
 In my free time I like watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and beer (🍺).
-
+</p>
 
 
