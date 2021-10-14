@@ -23,6 +23,7 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
 </h3>
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%2320232a.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/c%23%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
   <img alt="Golang" src="https://img.shields.io/badge/golang-%2320232a.svg?logo=go&style=for-the-badge" />
   <img alt="ApacheKafka" src="https://img.shields.io/badge/kafka-%2320232a.svg?logo=apachekafka&style=for-the-badge"/>
 </p>
