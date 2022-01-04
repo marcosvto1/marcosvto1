@@ -29,7 +29,7 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
 </p>
 
  <p align="center">
-<a href="https://app.daily.dev/marcosvto"><img src="https://api.daily.dev/devcards/4638303f6bd04aafb6ab1a582b5eb5e2.png?r=vqk" width="400" alt="Marcos Tomaz's Dev Card"/></a>
+<a href="https://app.daily.dev/marcosvto"><img src="https://api.daily.dev/devcards/4638303f6bd04aafb6ab1a582b5eb5e2.png?r=vqk" width="300" alt="Marcos Tomaz's Dev Card"/></a>
   </p>
 <p>
 In my free time I like watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and beer (🍺).
