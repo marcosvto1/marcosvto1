@@ -27,6 +27,10 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
   <img alt="Golang" src="https://img.shields.io/badge/golang-%2320232a.svg?logo=go&style=for-the-badge" />
   <img alt="ApacheKafka" src="https://img.shields.io/badge/kafka-%2320232a.svg?logo=apachekafka&style=for-the-badge"/>
 </p>
+
+ <p align="center">
+<a href="https://app.daily.dev/marcosvto"><img src="https://api.daily.dev/devcards/4638303f6bd04aafb6ab1a582b5eb5e2.png?r=vqk" width="400" alt="Marcos Tomaz's Dev Card"/></a>
+  </p>
 <p>
 In my free time I like watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and beer (🍺).
 </p>
