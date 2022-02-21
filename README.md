@@ -31,6 +31,9 @@ My name is Marcos Tomaz from Brazil (🇧🇷). I've been working as Fullstack D
 
  <p align="center">
 <a href="https://app.daily.dev/marcosvto"><img src="https://api.daily.dev/devcards/4638303f6bd04aafb6ab1a582b5eb5e2.png?r=vqk" width="300" alt="Marcos Tomaz's Dev Card"/></a>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvto1)](https://github.com/anuraghazra/github-readme-stats)
+
   </p>
 <p>
 In my free time I like watch soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and beer (🍺).
