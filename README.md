@@ -19,6 +19,7 @@
   <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?&logo=nestjs&style=for-the-badge" /><br/>
   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
+  <img alt="JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 <h4 align="center">Frontend</h4>
 <p align="center">
