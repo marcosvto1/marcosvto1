@@ -14,11 +14,11 @@
 <p align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?logo=laravel&style=for-the-badge" />
-  <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?&logo=nestjs&style=for-the-badge" />
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?&logo=nestjs&style=for-the-badge" /><br/>
   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/elixir-%2320232a.svg?logo=elixir&style=for-the-badge&logoColor=purple" />
+  <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
 </p>
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -37,4 +37,12 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/></a>&nbsp
  <img alt="ApacheKafka" src="https://img.shields.io/badge/kafka-%2320232a.svg?logo=apachekafka&style=for-the-badge"/>
+ <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ <img alt="DigitalOcena" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+ <img alt="HEROKU" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+
+ 
 </p>
